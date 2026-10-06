@@ -1,0 +1,12 @@
+EXERCISE 2
+1. My name is Bond . James bond.
+2. My name is Sean Connery. James Bond.
+3. My name is Bond. Susan
+4. 6
+5. True
+   False
+   None
+6. 2
+   3
+   
+   

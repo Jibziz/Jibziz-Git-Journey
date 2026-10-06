@@ -1,0 +1,30 @@
+Invalid line: 2026-07-06 | Pushups | 4 sets x 20 reps
+Reason: Missing or invalid duration
+
+Invalid line: 2026-07-08 | Squats | 3 sets x 15 reps
+Reason: Missing or invalid duration
+
+Invalid line: | Rowing | 20min | 4km
+Reason: Missing Date
+
+Invalid line: 2026-07-09 | Walking | abc min | 3km
+Reason: Missing or invalid duration
+
+Invalid line: 
+Reason: Missing Date
+
+Invalid line: just went for a nice long stroll today felt great
+Reason: Missing Date
+
+Invalid line: 2026-07-10 | Deadlifts | 5 sets x 5 reps
+Reason: Missing or invalid duration
+
+Invalid line: 2026-07-11 | Cycling | -25min | 9km
+Reason: Duration must be greater than zero 
+
+Invalid line: 2026-07-12 | Situps | 4 sets x 25 reps
+Reason: Missing or invalid duration
+
+Invalid line: 2026-07-14 | Pullups | 3 sets x 8 reps
+Reason: Missing or invalid duration
+
